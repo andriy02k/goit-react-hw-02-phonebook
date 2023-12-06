@@ -24,3 +24,9 @@
     border: 1px solid black;
     border-radius: 4px;
 }
+
+.btn:hover {
+    background-color: rgb(23, 70, 164);
+    border-color: white;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.1);
+}
